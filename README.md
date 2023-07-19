@@ -2,6 +2,9 @@
 
 Data backup is a practice that combines techniques and solutions for efficient and cost-effective backup. Your data is copied to one or more locations, at pre-determined frequencies, and at different capacities. You can set up a flexible data backup operation, using your own architecture, or make use of available Backup as a Service (BaaS) solutions, mixing them up with local storage. Today, there are plenty of corporate storage TCO solutions to help you calculate costs, avoid data loss, and prevent data breaches.
 
+### [Cloudflare R2: Zero egress fee object storage](https://www.cloudflare.com/products/r2/)
+R2 gives you the freedom to create the multi-cloud architectures you desire with an S3-compatible object storage. Global object storage. Dynamic functionality via integration with Cloudflare Workers. Avoid vendor lock-in with our S3-compatible API. Easy migration from existing cloud storage providers.
+
 ### [BackBlaze B2 Cloud: No Hidden Fees. No Delete Penalties.](https://www.backblaze.com/b2/cloud-storage.html)
 Backblaze, Inc. is an American cloud storage and data backup company based in San Mateo, California. Founded in 2007 by Gleb Budman, Billy Ng, Nilay Patel, Brian Wilson, Tim Nufire, Damon Uyeda, and Casey Jones, its two main products are their B2 Cloud Storage and Computer Backup services, targeted at both business and personal markets.
 
